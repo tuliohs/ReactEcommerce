@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "nome": "Categoria 1",
+        "ativa": true
+    },
+    {
+        "id": 2,
+        "nome": "Categoria 2",
+        "ativa": true
+    },
+    {
+        "id": 3,
+        "nome": "Categoria 3",
+        "ativa": true
+    },
+    {
+        "id": 4,
+        "nome": "Categoria 4",
+        "ativa": true
+    },
+    {
+        "id": 5,
+        "nome": "Categoria 5",
+        "ativa": true
+    },
+    {
+        "id": 6,
+        "nome": "Categoria 6",
+        "ativa": true
+    },
+    {
+        "id": 7,
+        "nome": "Categoria 7",
+        "ativa": true
+    },
+    {
+        "id": 8,
+        "nome": "Categoria 8",
+        "ativa": true
+    },
+    {
+        "id": 9,
+        "nome": "Categoria 9",
+        "ativa": true
+    },
+    {
+        "id": 10,
+        "nome": "Categoria 10",
+        "ativa": true
+    },
+    {
+        "id": 11,
+        "nome": "Categoria 11",
+        "ativa": true
+    },
+    {
+        "id": 12,
+        "nome": "Categoria 12",
+        "ativa": true
+    },
+    {
+        "id": 13,
+        "nome": "Categoria 13",
+        "ativa": true
+    },
+    {
+        "id": 14,
+        "nome": "Categoria 14",
+        "ativa": true
+    },
+    {
+        "id": 15,
+        "nome": "Categoria 15",
+        "ativa": true
+    },
+    {
+        "id": 16,
+        "nome": "Categoria 16",
+        "ativa": true
+    },
+    {
+        "id": 17,
+        "nome": "Categoria 17",
+        "ativa": true
+    },
+    {
+        "id": 18,
+        "nome": "Categoria 18",
+        "ativa": true
+    },
+    {
+        "id": 19,
+        "nome": "Categoria 19",
+        "ativa": true
+    }
+]
